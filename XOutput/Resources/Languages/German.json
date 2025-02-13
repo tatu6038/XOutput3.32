@@ -13,7 +13,6 @@
   "ControllerDisconnected": "Kontroller {0} wurde getrennt.",
   "DPad": "Steuerkreuz",
   "Deadzone": "Totzonen",
-  "AntiDeadzone": "Anti-Totzonen",
   "DiagnosticsMenu": "Diagnostics",
   "DirectInput": "DirectInput",
   "Disable": "Deaktivieren",
